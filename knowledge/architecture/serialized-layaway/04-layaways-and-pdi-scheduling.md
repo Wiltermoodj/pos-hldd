@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "Layaways and PDI Scheduling"
+---
+
 # Layaways and PDI Scheduling
 
 ## Layaway Deposit & Milestone Installments

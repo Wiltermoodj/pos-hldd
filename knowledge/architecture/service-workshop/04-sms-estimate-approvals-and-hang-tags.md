@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "SMS Estimate Approvals & Hang Tags"
+---
+
 # SMS Estimate Approvals & Hang Tags
 
 ## Interactive SMS Quote Approval Engine

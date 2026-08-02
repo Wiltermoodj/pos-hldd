@@ -1,3 +1,7 @@
+---
+type: Concept
+---
+
 Inventory check across vendors using APIs to scan
 
 Reporting - Reports that actually make sense

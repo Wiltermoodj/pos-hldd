@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "Automated Lifecycle Marketing Triggers"
+---
+
 # Automated Lifecycle Marketing Triggers
 
 ## Kids' Bike Size Growth Reminders

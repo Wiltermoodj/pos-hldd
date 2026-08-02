@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "Receiving, Landed Cost, and Reconciliation"
+---
+
 # Receiving, Landed Cost, and Reconciliation
 
 ## Touchscreen Receiving UI Layout

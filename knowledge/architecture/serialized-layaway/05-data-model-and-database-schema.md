@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "Data Model and Database Schema"
+---
+
 # Data Model and Database Schema
 
 ## Production Drizzle ORM Schema

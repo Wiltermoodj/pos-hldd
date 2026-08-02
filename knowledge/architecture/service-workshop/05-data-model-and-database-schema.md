@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "Data Model & Database Schema"
+---
+
 # Data Model & Database Schema
 
 The Service Workshop module utilizes a serverless database layer using Drizzle ORM configured for PostgreSQL (Neon compatibility). The production schema is defined in `schema/service_workshop.ts`.

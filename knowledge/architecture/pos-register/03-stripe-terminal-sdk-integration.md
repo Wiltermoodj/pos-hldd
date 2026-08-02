@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "Stripe Terminal SDK Integration"
+---
+
 # Stripe Terminal SDK Integration
 
 ## Card-Present Terminal Integration

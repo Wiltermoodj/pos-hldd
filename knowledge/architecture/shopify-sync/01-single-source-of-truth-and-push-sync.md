@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "Single Source of Truth and Push Sync Architecture"
+---
+
 # Single Source of Truth and Push Sync Architecture
 
 ## POS Single Source of Truth Architectural Rule

@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "AI Prompt Injection Mitigation & LLM Guardrails Architecture"
+---
+
 # AI Prompt Injection Mitigation & LLM Guardrails Architecture
 
 ## 1. Domain Objective

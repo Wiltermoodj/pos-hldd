@@ -1,7 +1,10 @@
 ---
-# Module: packages/functions/src/index.ts
-**Domain Category:** POS Register
-**Status:** Implemented
+type: Module
+resource: packages/functions/src/index.ts
+domain: POS Register
+status: Implemented
+---
+
 
 ## Purpose & Responsibilities
 - Provides domain functionality for index.
@@ -16,4 +19,3 @@
 
 ## Agreed-Upon Future Goals & Wishlist
 - Improve observability and testing.
----

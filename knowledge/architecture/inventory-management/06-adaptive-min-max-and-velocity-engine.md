@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "Adaptive Min/Max & Sales Velocity Engine Specifications"
+---
+
 # Adaptive Min/Max & Sales Velocity Engine Specifications
 
 ## 1. Domain Objective

@@ -1,7 +1,10 @@
 ---
-# Module: apps/pos/src/app/workshop/page.tsx
-**Domain Category:** Service Workshop
-**Status:** Implemented
+type: Module
+resource: apps/pos/src/app/workshop/page.tsx
+domain: Service Workshop
+status: Implemented
+---
+
 
 ## Purpose & Responsibilities
 - Provides domain functionality for page.
@@ -16,4 +19,3 @@
 
 ## Agreed-Upon Future Goals & Wishlist
 - Improve observability and testing.
----

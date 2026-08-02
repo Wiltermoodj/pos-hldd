@@ -1,7 +1,10 @@
 ---
-# Module: apps/pos/src/app/api/webhooks/shopify/order-created/route.ts
-**Domain Category:** Ordering
-**Status:** Implemented
+type: Module
+resource: apps/pos/src/app/api/webhooks/shopify/order-created/route.ts
+domain: Ordering
+status: Implemented
+---
+
 
 ## Purpose & Responsibilities
 - Provides domain functionality for route.
@@ -16,4 +19,3 @@
 
 ## Agreed-Upon Future Goals & Wishlist
 - Improve observability and testing.
----

@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "Hardware Integration & Listeners"
+---
+
 # Hardware Integration & Listeners
 
 ## Global Barcode Scanner Hook (`useBarcodeScanner`)

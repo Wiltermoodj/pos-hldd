@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "Police Hold and Compliance"
+---
+
 # Police Hold and Compliance
 
 ## Configurable Store Location Toggle

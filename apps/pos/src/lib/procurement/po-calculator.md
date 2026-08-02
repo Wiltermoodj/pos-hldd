@@ -1,7 +1,10 @@
 ---
-# Module: apps/pos/src/lib/procurement/po-calculator.ts
-**Domain Category:** Procurement
-**Status:** Implemented
+type: Module
+resource: apps/pos/src/lib/procurement/po-calculator.ts
+domain: Procurement
+status: Implemented
+---
+
 
 ## Purpose & Responsibilities
 - Provides domain functionality for po-calculator.
@@ -16,4 +19,3 @@
 
 ## Agreed-Upon Future Goals & Wishlist
 - Improve observability and testing.
----

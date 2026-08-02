@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "Vendor Shipping Restrictions and MAP"
+---
+
 # Vendor Shipping Restrictions and MAP
 
 ## Vendor Territory & Shipping Restriction Engine

@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "Master B2B Vendor Aggregation & Live Scraping Engine"
+---
+
 # Master B2B Vendor Aggregation & Live Scraping Engine
 
 - **Master Vendor Order Screen**: Showing real-time in-stock status and wholesale cost across all vendor accounts simultaneously.

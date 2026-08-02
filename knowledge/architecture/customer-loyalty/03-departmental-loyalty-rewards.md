@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "Departmental Loyalty Rewards"
+---
+
 # Departmental Loyalty Rewards
 
 ## Departmental Earning Multipliers

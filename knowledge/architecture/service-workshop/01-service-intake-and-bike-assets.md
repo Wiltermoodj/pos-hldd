@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "Service Intake & Bike Assets Architecture"
+---
+
 # Service Intake & Bike Assets Architecture
 
 ## Bike Asset Selector & Intake Engine

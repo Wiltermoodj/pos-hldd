@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "Offline PWA & Cash Shifts"
+---
+
 # Offline PWA & Cash Shifts
 
 ## Offline Transaction Queue (IndexedDB + ServiceWorker)

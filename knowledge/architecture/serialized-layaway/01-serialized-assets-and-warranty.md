@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "Serialized Assets and Warranty"
+---
+
 # Serialized Assets and Warranty
 
 ## Hierarchical Serial Asset Model

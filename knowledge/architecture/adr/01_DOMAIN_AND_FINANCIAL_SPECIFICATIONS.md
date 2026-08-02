@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "01. Domain & Financial Specifications"
+---
+
 # 01. Domain & Financial Specifications
 
 ## 1. Monetary Precision & Currency Handling

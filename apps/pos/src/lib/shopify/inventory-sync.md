@@ -1,7 +1,10 @@
 ---
-# Module: apps/pos/src/lib/shopify/inventory-sync.ts
-**Domain Category:** Inventory Ledger
-**Status:** Implemented
+type: Module
+resource: apps/pos/src/lib/shopify/inventory-sync.ts
+domain: Inventory Ledger
+status: Implemented
+---
+
 
 ## Purpose & Responsibilities
 - Provides domain functionality for inventory-sync.
@@ -16,4 +19,3 @@
 
 ## Agreed-Upon Future Goals & Wishlist
 - Improve observability and testing.
----

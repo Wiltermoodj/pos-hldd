@@ -1,7 +1,10 @@
 ---
-# Module: packages/db/src/schema/sales.ts
-**Domain Category:** Ordering
-**Status:** Implemented
+type: Module
+resource: packages/db/src/schema/sales.ts
+domain: Ordering
+status: Implemented
+---
+
 
 ## Purpose & Responsibilities
 - Defines database schema and invariants for sales.
@@ -18,4 +21,3 @@
 ## Agreed-Upon Future Goals & Wishlist
 - Enhance indices for read-heavy operations.
 - Add database-level audit trails.
----

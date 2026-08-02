@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "Digital Waivers & Disclaimers"
+---
+
 # Digital Waivers & Disclaimers
 
 ## Feature Toggle Architecture

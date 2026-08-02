@@ -6,6 +6,8 @@ This repository serves as the public, open specification and feature roadmap for
 It is designed to give community members, shop managers, mechanics, and developers a clear view of desired features and system architecture without exposing proprietary code or sensitive business logic.
 
 ## Open Knowledge Format (OKF)
+This repository follows the Open Knowledge Format (OKF) outlined in `knowledge/okf-spec.md`. All non-reserved markdown files must begin with a valid YAML frontmatter block containing at least the `type` field.
+
 This repository mirrors the file and module structure of the application codebase. Rather than hosting actual source code, each Markdown file describes:
 * **Module Purpose:** What the specific component or domain handles.
 * **Public Contracts:** High-level actions, parameters, and interfaces.
@@ -14,5 +16,5 @@ This repository mirrors the file and module structure of the application codebas
 
 ## How to Contribute
 1. Browse the mirrored directory structure under `apps/` or `packages/`.
-2. Open a Pull Request or Issue on the relevant Markdown spec file to propose new features, user workflows, or edge case requirements.
+2. Open a Pull Request or Issue on the relevant Markdown spec file to propose new features, user workflows, or edge case requirements. Ensure that your markdown file starts with a valid YAML frontmatter block.
 3. Keep suggestions focused on capabilities, UX rules, and domain behavior rather than specific code implementations.

@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "Reorder Engine and Multi-Location"
+---
+
 # Reorder Engine and Multi-Location
 
 ## Dynamic Reorder Calculation

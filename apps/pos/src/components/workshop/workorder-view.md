@@ -1,7 +1,10 @@
 ---
-# Module: apps/pos/src/components/workshop/workorder-view.tsx
-**Domain Category:** Service Workshop
-**Status:** Implemented
+type: Module
+resource: apps/pos/src/components/workshop/workorder-view.tsx
+domain: Service Workshop
+status: Implemented
+---
+
 
 ## Purpose & Responsibilities
 - Provides domain functionality for workorder-view.
@@ -16,4 +19,3 @@
 
 ## Agreed-Upon Future Goals & Wishlist
 - Improve observability and testing.
----

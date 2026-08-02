@@ -1,7 +1,10 @@
 ---
-# Module: packages/db/src/schema/catalog.ts
-**Domain Category:** Inventory Ledger
-**Status:** Implemented
+type: Module
+resource: packages/db/src/schema/catalog.ts
+domain: Inventory Ledger
+status: Implemented
+---
+
 
 ## Purpose & Responsibilities
 - Defines database schema and invariants for catalog.
@@ -18,4 +21,3 @@
 ## Agreed-Upon Future Goals & Wishlist
 - Enhance indices for read-heavy operations.
 - Add database-level audit trails.
----
