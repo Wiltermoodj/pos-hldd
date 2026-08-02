@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "04 Sms Estimate Approvals And Hang Tags"
+description: "Knowledge document for 04 Sms Estimate Approvals And Hang Tags."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.858808Z }
+---
+
 # SMS Estimate Approvals & Hang Tags
 
 ## Interactive SMS Quote Approval Engine

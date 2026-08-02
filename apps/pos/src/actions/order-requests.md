@@ -1,7 +1,11 @@
 ---
-# Module: apps/pos/src/actions/order-requests.ts
-**Domain Category:** Ordering
-**Status:** Implemented
+type: Reference
+title: "apps/pos/src/actions/order-requests.ts"
+description: "Provides domain functionality for order-requests."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.849617Z }
+tags: ['ordering']
+---
 
 ## Purpose & Responsibilities
 - Provides domain functionality for order-requests.
@@ -20,4 +24,3 @@
 
 ## Agreed-Upon Future Goals & Wishlist
 - Improve observability and testing.
----

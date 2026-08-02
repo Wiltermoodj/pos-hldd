@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "Wishlist"
+description: "Knowledge document for Wishlist."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.852975Z }
+---
+
 Inventory check across vendors using APIs to scan
 
 Reporting - Reports that actually make sense

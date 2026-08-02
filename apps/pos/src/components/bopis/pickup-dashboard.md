@@ -1,7 +1,11 @@
 ---
-# Module: apps/pos/src/components/bopis/pickup-dashboard.tsx
-**Domain Category:** Inventory Ledger
-**Status:** Implemented
+type: Reference
+title: "apps/pos/src/components/bopis/pickup-dashboard.tsx"
+description: "Provides domain functionality for pickup-dashboard."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.847866Z }
+tags: ['inventory-ledger']
+---
 
 ## Purpose & Responsibilities
 - Provides domain functionality for pickup-dashboard.
@@ -16,4 +20,3 @@
 
 ## Agreed-Upon Future Goals & Wishlist
 - Improve observability and testing.
----

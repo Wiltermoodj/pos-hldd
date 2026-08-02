@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "03 Police Hold And Compliance"
+description: "Knowledge document for 03 Police Hold And Compliance."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.857604Z }
+---
+
 # Police Hold and Compliance
 
 ## Configurable Store Location Toggle

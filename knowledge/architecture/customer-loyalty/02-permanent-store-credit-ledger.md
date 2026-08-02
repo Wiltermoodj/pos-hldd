@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "02 Permanent Store Credit Ledger"
+description: "Knowledge document for 02 Permanent Store Credit Ledger."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.853943Z }
+---
+
 # Permanent Store Credit Ledger
 
 ## Permanent Non-Expiring Policy Architecture

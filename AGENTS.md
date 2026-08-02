@@ -1,7 +1,15 @@
+---
+type: Reference
+title: "Agent Instructions"
+description: "Instructions and rules for AI Agents working in this repository."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T21:02:53.209059Z }
+---
+
 # Instructions for AI Agents Working in This Repository
 
 ## Core Mission
-Maintain, expand, and structure high-level documentation and feature tracking specs for the POS platform using Open Knowledge Format (OKF).
+Maintain, expand, and structure high-level documentation and feature tracking specs for the POS platform using Open Knowledge Format (OKF). See the [OKF Spec](./OKF_SPEC.md) for details.
 
 ---
 
@@ -17,9 +25,13 @@ Maintain, expand, and structure high-level documentation and feature tracking sp
 
 When creating or updating any mirrored file spec, adhere strictly to this template:
 
-# Module: [File/Module Path]
-**Domain Category:** [e.g., POS Register, Workshop, Inventory Ledger, Procurement]
-**Status:** [Implemented / Hardened / Planned]
+---
+type: Reference
+title: "[File/Module Path]"
+description: "[Brief high-level description]"
+status: [draft | stable | deprecated]
+tags: [[Domain Category]]
+---
 
 ## Purpose & Responsibilities
 - [Brief high-level description of what this module or view achieves]

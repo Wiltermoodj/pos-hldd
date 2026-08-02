@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "01 Serialized Assets And Warranty"
+description: "Knowledge document for 01 Serialized Assets And Warranty."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.856988Z }
+---
+
 # Serialized Assets and Warranty
 
 ## Hierarchical Serial Asset Model

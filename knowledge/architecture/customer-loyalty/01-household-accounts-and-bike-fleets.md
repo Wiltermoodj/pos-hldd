@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "01 Household Accounts And Bike Fleets"
+description: "Knowledge document for 01 Household Accounts And Bike Fleets."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.853737Z }
+---
+
 # Household Accounts and Bike Fleets
 
 ## Household Account Hierarchy

@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "03 Vendor Shipping Restrictions And Map"
+description: "Knowledge document for 03 Vendor Shipping Restrictions And Map."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.854854Z }
+---
+
 # Vendor Shipping Restrictions and MAP
 
 ## Vendor Territory & Shipping Restriction Engine

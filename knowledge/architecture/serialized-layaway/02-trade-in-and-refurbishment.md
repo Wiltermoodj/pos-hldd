@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "02 Trade In And Refurbishment"
+description: "Knowledge document for 02 Trade In And Refurbishment."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.857187Z }
+---
+
 # Trade-in and Refurbishment
 
 ## Uncluttered POS UI Architecture

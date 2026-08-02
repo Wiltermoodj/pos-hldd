@@ -1,7 +1,11 @@
 ---
-# Module: apps/pos/src/lib/signatures/signature.ts
-**Domain Category:** POS Register
-**Status:** Implemented
+type: Reference
+title: "apps/pos/src/lib/signatures/signature.ts"
+description: "Provides domain functionality for signature."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.851802Z }
+tags: ['pos-register']
+---
 
 ## Purpose & Responsibilities
 - Provides domain functionality for signature.
@@ -17,4 +21,3 @@
 
 ## Agreed-Upon Future Goals & Wishlist
 - Improve observability and testing.
----

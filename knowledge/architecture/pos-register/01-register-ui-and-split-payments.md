@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "01 Register Ui And Split Payments"
+description: "Knowledge document for 01 Register Ui And Split Payments."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.860213Z }
+---
+
 # POS Register UI & Split Payments
 
 ## Touchscreen Register Layout Specification

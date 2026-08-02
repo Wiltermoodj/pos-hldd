@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "04 Offline Pwa And Cash Shifts"
+description: "Knowledge document for 04 Offline Pwa And Cash Shifts."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.859404Z }
+---
+
 # Offline PWA & Cash Shifts
 
 ## Offline Transaction Queue (IndexedDB + ServiceWorker)

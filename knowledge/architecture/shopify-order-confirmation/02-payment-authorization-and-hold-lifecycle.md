@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "02 Payment Authorization And Hold Lifecycle"
+description: "Knowledge document for 02 Payment Authorization And Hold Lifecycle."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.855880Z }
+---
+
 # Financial Engineering & Authorization Specifications
 
 ## 1. Merchant Processing Fee Avoidance Math

@@ -1,7 +1,11 @@
 ---
-# Module: apps/pos/src/actions/workshop/workorder.ts
-**Domain Category:** Service Workshop
-**Status:** Implemented
+type: Reference
+title: "apps/pos/src/actions/workshop/workorder.ts"
+description: "Provides domain functionality for workorder."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.849854Z }
+tags: ['service-workshop']
+---
 
 ## Purpose & Responsibilities
 - Provides domain functionality for workorder.
@@ -20,4 +24,3 @@
 
 ## Agreed-Upon Future Goals & Wishlist
 - Improve observability and testing.
----
