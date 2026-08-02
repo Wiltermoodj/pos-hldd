@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "06 Reorder Engine And Multi Location"
+description: "Knowledge document for 06 Reorder Engine And Multi Location."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.863942Z }
+---
+
 # Reorder Engine and Multi-Location
 
 ## Dynamic Reorder Calculation

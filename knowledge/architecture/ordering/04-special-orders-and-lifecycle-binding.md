@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "04 Special Orders And Lifecycle Binding"
+description: "Knowledge document for 04 Special Orders And Lifecycle Binding."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.862525Z }
+---
+
 # Special Orders and Lifecycle Binding
 
 ## Register Intake Workflow

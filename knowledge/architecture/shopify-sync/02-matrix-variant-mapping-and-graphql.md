@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "02 Matrix Variant Mapping And Graphql"
+description: "Knowledge document for 02 Matrix Variant Mapping And Graphql."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.855228Z }
+---
+
 # Matrix Variant Mapping and GraphQL Mutations
 
 ## Multi-Option Variant Matrix Mapping

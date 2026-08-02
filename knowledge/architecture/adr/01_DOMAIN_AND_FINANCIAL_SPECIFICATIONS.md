@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "01_Domain_And_Financial_Specifications"
+description: "Knowledge document for 01_Domain_And_Financial_Specifications."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.861605Z }
+---
+
 # 01. Domain & Financial Specifications
 
 ## 1. Monetary Precision & Currency Handling

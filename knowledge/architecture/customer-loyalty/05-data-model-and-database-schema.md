@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "05 Data Model And Database Schema"
+description: "Knowledge document for 05 Data Model And Database Schema."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.854146Z }
+---
+
 # Data Model and Database Schema
 
 ## Production Drizzle ORM Schema (`schema/customer_loyalty.ts`)

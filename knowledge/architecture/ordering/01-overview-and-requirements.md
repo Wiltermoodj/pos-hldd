@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "01 Overview And Requirements"
+description: "Knowledge document for 01 Overview And Requirements."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.862849Z }
+---
+
 # Overview and Requirements
 
 ## Executive Summary

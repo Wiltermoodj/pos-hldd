@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "05 Receiving Landed Cost And Reconciliation"
+description: "Knowledge document for 05 Receiving Landed Cost And Reconciliation."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.863072Z }
+---
+
 # Receiving, Landed Cost, and Reconciliation
 
 ## Touchscreen Receiving UI Layout

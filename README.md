@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "Readme"
+description: "This repository serves as the public, open specification and feature roadmap for a modern Point of Sale (POS), B2B Procurement, and Service/Workshop m..."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.840978Z }
+---
+
 # Point of Sale & Workshop Management System — Feature & Specification Tracker
 
 ## Purpose

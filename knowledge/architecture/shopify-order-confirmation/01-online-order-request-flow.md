@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "01 Online Order Request Flow"
+description: "Knowledge document for 01 Online Order Request Flow."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.856082Z }
+---
+
 # Online Purchase Request & Authorization Lifecycle
 
 ## 1. Business & Architectural Purpose

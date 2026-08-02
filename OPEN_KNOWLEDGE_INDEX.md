@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "Open_Knowledge_Index"
+description: "Knowledge document for Open_Knowledge_Index."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.840324Z }
+---
+
 # Open Knowledge Architecture Manifest
 
 ## Core Domains

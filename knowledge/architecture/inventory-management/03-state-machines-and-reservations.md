@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "03 State Machines And Reservations"
+description: "Knowledge document for 03 State Machines And Reservations."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.860650Z }
+---
+
 # Inventory Reservation State Machine & Availability Engine
 
 ## 1. Executive Summary

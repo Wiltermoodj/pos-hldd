@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "03_Security_And_Data_Mutation_Governance"
+description: "Knowledge document for 03_Security_And_Data_Mutation_Governance."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.861815Z }
+---
+
 # 03. Security & Data Mutation Governance
 
 ## 1. Unified Action Result Wrapper (`ActionResult<T>`)

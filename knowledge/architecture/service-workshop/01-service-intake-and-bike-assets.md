@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "01 Service Intake And Bike Assets"
+description: "Knowledge document for 01 Service Intake And Bike Assets."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.857836Z }
+---
+
 # Service Intake & Bike Assets Architecture
 
 ## Bike Asset Selector & Intake Engine

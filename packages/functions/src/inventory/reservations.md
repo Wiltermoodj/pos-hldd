@@ -1,7 +1,11 @@
 ---
-# Module: packages/functions/src/inventory/reservations.ts
-**Domain Category:** Inventory Ledger
-**Status:** Implemented
+type: Reference
+title: "packages/functions/src/inventory/reservations.ts"
+description: "Provides domain functionality for reservations."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.846999Z }
+tags: ['inventory-ledger']
+---
 
 ## Purpose & Responsibilities
 - Provides domain functionality for reservations.
@@ -16,4 +20,3 @@
 
 ## Agreed-Upon Future Goals & Wishlist
 - Improve observability and testing.
----

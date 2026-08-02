@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "01_Master_Vendor_B2B_And_Scraping_Engine"
+description: "Knowledge document for 01_Master_Vendor_B2B_And_Scraping_Engine."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.863488Z }
+---
+
 # Master B2B Vendor Aggregation & Live Scraping Engine
 
 - **Master Vendor Order Screen**: Showing real-time in-stock status and wholesale cost across all vendor accounts simultaneously.

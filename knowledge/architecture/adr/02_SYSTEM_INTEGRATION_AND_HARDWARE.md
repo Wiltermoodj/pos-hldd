@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "02_System_Integration_And_Hardware"
+description: "Knowledge document for 02_System_Integration_And_Hardware."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.862023Z }
+---
+
 # 02. System Integration & Hardware Architecture
 
 ## 1. POS Cart & Component Consolidation

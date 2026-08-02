@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "02 Distributor Integrations And Adapters"
+description: "Knowledge document for 02 Distributor Integrations And Adapters."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.863704Z }
+---
+
 # Distributor Integrations and Adapters
 
 ## Unified Gateway Architecture Diagram

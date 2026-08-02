@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "01 Single Source Of Truth And Push Sync"
+description: "Knowledge document for 01 Single Source Of Truth And Push Sync."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.855653Z }
+---
+
 # Single Source of Truth and Push Sync Architecture
 
 ## POS Single Source of Truth Architectural Rule

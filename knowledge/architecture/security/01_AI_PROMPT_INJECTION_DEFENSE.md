@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "01_Ai_Prompt_Injection_Defense"
+description: "Knowledge document for 01_Ai_Prompt_Injection_Defense."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.853275Z }
+---
+
 # AI Prompt Injection Mitigation & LLM Guardrails Architecture
 
 ## 1. Domain Objective

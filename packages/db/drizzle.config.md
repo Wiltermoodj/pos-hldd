@@ -1,7 +1,11 @@
 ---
-# Module: packages/db/drizzle.config.ts
-**Domain Category:** POS Register
-**Status:** Implemented
+type: Reference
+title: "packages/db/drizzle.config.ts"
+description: "Defines database schema and invariants for drizzle.config."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.843580Z }
+tags: ['pos-register']
+---
 
 ## Purpose & Responsibilities
 - Defines database schema and invariants for drizzle.config.
@@ -18,4 +22,3 @@
 ## Agreed-Upon Future Goals & Wishlist
 - Enhance indices for read-heavy operations.
 - Add database-level audit trails.
----

@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "03 Digital Waivers And Disclaimers"
+description: "Knowledge document for 03 Digital Waivers And Disclaimers."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.858594Z }
+---
+
 # Digital Waivers & Disclaimers
 
 ## Feature Toggle Architecture

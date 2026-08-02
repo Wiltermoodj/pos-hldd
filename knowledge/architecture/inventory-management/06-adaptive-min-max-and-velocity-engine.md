@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "06 Adaptive Min Max And Velocity Engine"
+description: "Knowledge document for 06 Adaptive Min Max And Velocity Engine."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.861017Z }
+---
+
 # Adaptive Min/Max & Sales Velocity Engine Specifications
 
 ## 1. Domain Objective

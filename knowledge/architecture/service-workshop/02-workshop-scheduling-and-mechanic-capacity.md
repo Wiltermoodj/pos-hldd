@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "02 Workshop Scheduling And Mechanic Capacity"
+description: "Knowledge document for 02 Workshop Scheduling And Mechanic Capacity."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.858324Z }
+---
+
 # Workshop Scheduling & Mechanic Capacity
 
 ## Labor-Hour Capacity Calendar

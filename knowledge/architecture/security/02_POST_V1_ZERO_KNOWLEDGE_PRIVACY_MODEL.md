@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "02_Post_V1_Zero_Knowledge_Privacy_Model"
+description: "Knowledge document for 02_Post_V1_Zero_Knowledge_Privacy_Model."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.853510Z }
+---
+
 [STATUS: DEFERRED TO POST-V1 PHASE 2 - DO NOT IMPLEMENT DURING V1 CODE BASE REMEDIATION]
 
 # Zero-Knowledge Privacy Model

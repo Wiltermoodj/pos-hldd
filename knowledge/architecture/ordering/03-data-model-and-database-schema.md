@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "03 Data Model And Database Schema"
+description: "Knowledge document for 03 Data Model And Database Schema."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.862269Z }
+---
+
 # Data Model and Database Schema
 
 ## Entity-Relationship Overview

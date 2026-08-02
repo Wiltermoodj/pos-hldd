@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "04 Oversell Protection And Bopis Pipeline"
+description: "Knowledge document for 04 Oversell Protection And Bopis Pipeline."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.855415Z }
+---
+
 # Oversell Protection and BOPIS Pipeline
 
 ## Location Safety Stock Buffer Formula

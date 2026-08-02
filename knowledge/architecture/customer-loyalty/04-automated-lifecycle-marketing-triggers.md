@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "04 Automated Lifecycle Marketing Triggers"
+description: "Knowledge document for 04 Automated Lifecycle Marketing Triggers."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.854338Z }
+---
+
 # Automated Lifecycle Marketing Triggers
 
 ## Kids' Bike Size Growth Reminders

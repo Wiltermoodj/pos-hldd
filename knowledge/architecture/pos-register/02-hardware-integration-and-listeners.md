@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "02 Hardware Integration And Listeners"
+description: "Knowledge document for 02 Hardware Integration And Listeners."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.860029Z }
+---
+
 # Hardware Integration & Listeners
 
 ## Global Barcode Scanner Hook (`useBarcodeScanner`)

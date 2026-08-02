@@ -1,7 +1,11 @@
 ---
-# Module: packages/db/src/schema/online-order-requests.ts
-**Domain Category:** Ordering
-**Status:** Implemented
+type: Reference
+title: "packages/db/src/schema/online-order-requests.ts"
+description: "Defines database schema and invariants for online-order-requests."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.845575Z }
+tags: ['ordering']
+---
 
 ## Purpose & Responsibilities
 - Defines database schema and invariants for online-order-requests.
@@ -18,4 +22,3 @@
 ## Agreed-Upon Future Goals & Wishlist
 - Enhance indices for read-heavy operations.
 - Add database-level audit trails.
----

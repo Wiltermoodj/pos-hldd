@@ -1,7 +1,11 @@
 ---
-# Module: apps/pos/src/app/workshop/page.tsx
-**Domain Category:** Service Workshop
-**Status:** Implemented
+type: Reference
+title: "apps/pos/src/app/workshop/page.tsx"
+description: "Provides domain functionality for page."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.848417Z }
+tags: ['service-workshop']
+---
 
 ## Purpose & Responsibilities
 - Provides domain functionality for page.
@@ -16,4 +20,3 @@
 
 ## Agreed-Upon Future Goals & Wishlist
 - Improve observability and testing.
----

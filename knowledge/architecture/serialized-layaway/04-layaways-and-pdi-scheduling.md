@@ -1,3 +1,11 @@
+---
+type: Reference
+title: "04 Layaways And Pdi Scheduling"
+description: "Knowledge document for 04 Layaways And Pdi Scheduling."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.857376Z }
+---
+
 # Layaways and PDI Scheduling
 
 ## Layaway Deposit & Milestone Installments

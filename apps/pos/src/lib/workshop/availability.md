@@ -1,7 +1,11 @@
 ---
-# Module: apps/pos/src/lib/workshop/availability.ts
-**Domain Category:** Service Workshop
-**Status:** Implemented
+type: Reference
+title: "apps/pos/src/lib/workshop/availability.ts"
+description: "Provides domain functionality for availability."
+status: stable
+generated: { by: reference_agent/jules, at: 2026-08-02T20:45:15.851339Z }
+tags: ['service-workshop']
+---
 
 ## Purpose & Responsibilities
 - Provides domain functionality for availability.
@@ -16,4 +20,3 @@
 
 ## Agreed-Upon Future Goals & Wishlist
 - Improve observability and testing.
----
