@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "Oversell Protection and BOPIS Pipeline"
+---
+
 # Oversell Protection and BOPIS Pipeline
 
 ## Location Safety Stock Buffer Formula

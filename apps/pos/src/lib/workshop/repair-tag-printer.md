@@ -1,7 +1,10 @@
 ---
-# Module: apps/pos/src/lib/workshop/repair-tag-printer.ts
-**Domain Category:** Service Workshop
-**Status:** Implemented
+type: Module
+resource: apps/pos/src/lib/workshop/repair-tag-printer.ts
+domain: Service Workshop
+status: Implemented
+---
+
 
 ## Purpose & Responsibilities
 - Provides domain functionality for repair-tag-printer.
@@ -16,4 +19,3 @@
 
 ## Agreed-Upon Future Goals & Wishlist
 - Improve observability and testing.
----

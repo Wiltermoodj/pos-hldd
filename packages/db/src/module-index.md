@@ -1,7 +1,10 @@
 ---
-# Module: packages/db/src/index.ts
-**Domain Category:** POS Register
-**Status:** Implemented
+type: Module
+resource: packages/db/src/index.ts
+domain: POS Register
+status: Implemented
+---
+
 
 ## Purpose & Responsibilities
 - Defines database schema and invariants for index.
@@ -18,4 +21,3 @@
 ## Agreed-Upon Future Goals & Wishlist
 - Enhance indices for read-heavy operations.
 - Add database-level audit trails.
----

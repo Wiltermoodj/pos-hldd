@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "Workshop Scheduling & Mechanic Capacity"
+---
+
 # Workshop Scheduling & Mechanic Capacity
 
 ## Labor-Hour Capacity Calendar

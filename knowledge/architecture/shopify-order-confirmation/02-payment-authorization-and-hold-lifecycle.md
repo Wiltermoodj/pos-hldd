@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "Financial Engineering & Authorization Specifications"
+---
+
 # Financial Engineering & Authorization Specifications
 
 ## 1. Merchant Processing Fee Avoidance Math

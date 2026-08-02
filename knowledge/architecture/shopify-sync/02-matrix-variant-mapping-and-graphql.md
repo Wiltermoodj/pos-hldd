@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "Matrix Variant Mapping and GraphQL Mutations"
+---
+
 # Matrix Variant Mapping and GraphQL Mutations
 
 ## Multi-Option Variant Matrix Mapping

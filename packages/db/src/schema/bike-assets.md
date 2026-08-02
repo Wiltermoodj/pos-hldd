@@ -1,7 +1,10 @@
 ---
-# Module: packages/db/src/schema/bike-assets.ts
-**Domain Category:** Service Workshop
-**Status:** Implemented
+type: Module
+resource: packages/db/src/schema/bike-assets.ts
+domain: Service Workshop
+status: Implemented
+---
+
 
 ## Purpose & Responsibilities
 - Defines database schema and invariants for bike-assets.
@@ -18,4 +21,3 @@
 ## Agreed-Upon Future Goals & Wishlist
 - Enhance indices for read-heavy operations.
 - Add database-level audit trails.
----

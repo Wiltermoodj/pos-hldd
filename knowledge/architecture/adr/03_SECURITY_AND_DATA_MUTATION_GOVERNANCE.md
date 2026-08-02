@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "03. Security & Data Mutation Governance"
+---
+
 # 03. Security & Data Mutation Governance
 
 ## 1. Unified Action Result Wrapper (`ActionResult<T>`)

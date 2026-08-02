@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "POS Register UI & Split Payments"
+---
+
 # POS Register UI & Split Payments
 
 ## Touchscreen Register Layout Specification

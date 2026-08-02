@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "02. System Integration & Hardware Architecture"
+---
+
 # 02. System Integration & Hardware Architecture
 
 ## 1. POS Cart & Component Consolidation

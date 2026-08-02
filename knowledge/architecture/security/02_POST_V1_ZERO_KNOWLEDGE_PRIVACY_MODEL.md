@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "Zero-Knowledge Privacy Model"
+---
+
 [STATUS: DEFERRED TO POST-V1 PHASE 2 - DO NOT IMPLEMENT DURING V1 CODE BASE REMEDIATION]
 
 # Zero-Knowledge Privacy Model

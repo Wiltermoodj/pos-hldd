@@ -1,7 +1,10 @@
 ---
-# Module: apps/pos/src/lib/signatures/signature.ts
-**Domain Category:** POS Register
-**Status:** Implemented
+type: Module
+resource: apps/pos/src/lib/signatures/signature.ts
+domain: POS Register
+status: Implemented
+---
+
 
 ## Purpose & Responsibilities
 - Provides domain functionality for signature.
@@ -17,4 +20,3 @@
 
 ## Agreed-Upon Future Goals & Wishlist
 - Improve observability and testing.
----

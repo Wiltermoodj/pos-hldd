@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "Special Order Lifecycle & Vendor Performance Tracking"
+---
+
 # Special Order Lifecycle & Vendor Performance Tracking
 
 - **Linking**: Vendor special orders directly to `workorder_id`.

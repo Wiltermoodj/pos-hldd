@@ -1,7 +1,10 @@
 ---
-# Module: apps/pos/src/lib/stripe-terminal/terminal.ts
-**Domain Category:** Payments & Ledger
-**Status:** Implemented
+type: Module
+resource: apps/pos/src/lib/stripe-terminal/terminal.ts
+domain: Payments & Ledger
+status: Implemented
+---
+
 
 ## Purpose & Responsibilities
 - Integrates with Stripe Terminal for physical in-store payments.
@@ -18,4 +21,3 @@
 ## Agreed-Upon Future Goals & Wishlist
 - Better error handling for terminal disconnects.
 - Support for tipping flow.
----

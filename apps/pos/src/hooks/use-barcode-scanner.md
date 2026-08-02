@@ -1,7 +1,10 @@
 ---
-# Module: apps/pos/src/hooks/use-barcode-scanner.ts
-**Domain Category:** POS Register
-**Status:** Implemented
+type: Module
+resource: apps/pos/src/hooks/use-barcode-scanner.ts
+domain: POS Register
+status: Implemented
+---
+
 
 ## Purpose & Responsibilities
 - Provides domain functionality for use-barcode-scanner.
@@ -16,4 +19,3 @@
 
 ## Agreed-Upon Future Goals & Wishlist
 - Improve observability and testing.
----

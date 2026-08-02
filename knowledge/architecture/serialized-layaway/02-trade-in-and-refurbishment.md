@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "Trade-in and Refurbishment"
+---
+
 # Trade-in and Refurbishment
 
 ## Uncluttered POS UI Architecture

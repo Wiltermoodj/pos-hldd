@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "Inventory Reservation State Machine & Availability Engine"
+---
+
 # Inventory Reservation State Machine & Availability Engine
 
 ## 1. Executive Summary

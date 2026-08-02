@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "High-Impact Retail & Service Reporting Specifications"
+---
+
 # High-Impact Retail & Service Reporting Specifications
 
 - **Vendor Reliability Index**: Real-time metrics on vendor lead times, backorder rates, and shipping accuracy.

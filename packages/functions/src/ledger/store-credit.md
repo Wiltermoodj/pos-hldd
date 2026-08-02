@@ -1,7 +1,10 @@
 ---
-# Module: packages/functions/src/ledger/store-credit.ts
-**Domain Category:** Payments & Ledger
-**Status:** Implemented
+type: Module
+resource: packages/functions/src/ledger/store-credit.ts
+domain: Payments & Ledger
+status: Implemented
+---
+
 
 ## Purpose & Responsibilities
 - Provides domain functionality for store-credit.
@@ -16,4 +19,3 @@
 
 ## Agreed-Upon Future Goals & Wishlist
 - Improve observability and testing.
----

@@ -10,16 +10,23 @@ Maintain, expand, and structure high-level documentation and feature tracking sp
 1. **NO SOURCE CODE:**
    * NEVER paste, commit, or leak raw JavaScript, TypeScript, SQL, or function bodies.
    * Document ONLY interfaces, types, parameters, data intent, and operational rules.
+2. **OKF COMPLIANCE:**
+   * All markdown files must follow the Open Knowledge Format outlined in `knowledge/okf-spec.md`.
+   * All non-reserved markdown files must start with a valid YAML frontmatter block containing a `type` field.
 
 ---
 
 ## OKF Markdown Standard Template
 
-When creating or updating any mirrored file spec, adhere strictly to this template:
+When creating or updating any mirrored file spec, adhere strictly to this OKF-compliant template:
 
-# Module: [File/Module Path]
-**Domain Category:** [e.g., POS Register, Workshop, Inventory Ledger, Procurement]
-**Status:** [Implemented / Hardened / Planned]
+```markdown
+---
+type: Module
+resource: [File/Module Path]
+domain: [e.g., POS Register, Workshop, Inventory Ledger, Procurement]
+status: [Implemented / Hardened / Planned]
+---
 
 ## Purpose & Responsibilities
 - [Brief high-level description of what this module or view achieves]
@@ -33,3 +40,4 @@ When creating or updating any mirrored file spec, adhere strictly to this templa
 
 ## Planned Goals & Community Wishlist
 - [Bullet points of future enhancements and open feature requests]
+```

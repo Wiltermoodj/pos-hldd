@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "Permanent Store Credit Ledger"
+---
+
 # Permanent Store Credit Ledger
 
 ## Permanent Non-Expiring Policy Architecture

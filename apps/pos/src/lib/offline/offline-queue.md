@@ -1,7 +1,10 @@
 ---
-# Module: apps/pos/src/lib/offline/offline-queue.ts
-**Domain Category:** POS Register
-**Status:** Implemented
+type: Module
+resource: apps/pos/src/lib/offline/offline-queue.ts
+domain: POS Register
+status: Implemented
+---
+
 
 ## Purpose & Responsibilities
 - Provides domain functionality for offline-queue.
@@ -21,4 +24,3 @@
 
 ## Agreed-Upon Future Goals & Wishlist
 - Improve observability and testing.
----

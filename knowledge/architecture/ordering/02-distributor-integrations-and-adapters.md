@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "Distributor Integrations and Adapters"
+---
+
 # Distributor Integrations and Adapters
 
 ## Unified Gateway Architecture Diagram

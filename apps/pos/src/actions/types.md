@@ -1,7 +1,10 @@
 ---
-# Module: apps/pos/src/actions/types.ts
-**Domain Category:** POS Register
-**Status:** Implemented
+type: Module
+resource: apps/pos/src/actions/types.ts
+domain: POS Register
+status: Implemented
+---
+
 
 ## Purpose & Responsibilities
 - Provides domain functionality for types.
@@ -16,4 +19,3 @@
 
 ## Agreed-Upon Future Goals & Wishlist
 - Improve observability and testing.
----

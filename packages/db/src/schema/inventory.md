@@ -1,7 +1,10 @@
 ---
-# Module: packages/db/src/schema/inventory.ts
-**Domain Category:** Inventory Ledger
-**Status:** Implemented
+type: Module
+resource: packages/db/src/schema/inventory.ts
+domain: Inventory Ledger
+status: Implemented
+---
+
 
 ## Purpose & Responsibilities
 - Handles inventory operations such as searching variants by barcode and checking out inventory sales.
@@ -18,4 +21,3 @@
 ## Agreed-Upon Future Goals & Wishlist
 - Add stronger validation for checkout idempotency.
 - Optimize concurrent reservations.
----

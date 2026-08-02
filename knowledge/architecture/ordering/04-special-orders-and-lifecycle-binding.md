@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "Special Orders and Lifecycle Binding"
+---
+
 # Special Orders and Lifecycle Binding
 
 ## Register Intake Workflow

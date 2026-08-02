@@ -1,7 +1,10 @@
 ---
-# Module: packages/functions/src/inventory/order-confirmation.ts
-**Domain Category:** Inventory Ledger
-**Status:** Implemented
+type: Module
+resource: packages/functions/src/inventory/order-confirmation.ts
+domain: Inventory Ledger
+status: Implemented
+---
+
 
 ## Purpose & Responsibilities
 - Provides domain functionality for order-confirmation.
@@ -17,4 +20,3 @@
 
 ## Agreed-Upon Future Goals & Wishlist
 - Improve observability and testing.
----

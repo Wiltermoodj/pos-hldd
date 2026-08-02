@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "Online Purchase Request & Authorization Lifecycle"
+---
+
 # Online Purchase Request & Authorization Lifecycle
 
 ## 1. Business & Architectural Purpose

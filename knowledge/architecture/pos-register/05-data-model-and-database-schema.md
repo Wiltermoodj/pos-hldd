@@ -1,3 +1,8 @@
+---
+type: Concept
+title: "Data Model & Database Schema"
+---
+
 # Data Model & Database Schema
 
 ## Production Drizzle ORM Schema (`schema/pos_register.ts`)
