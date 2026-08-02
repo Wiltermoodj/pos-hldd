@@ -1,0 +1,23 @@
+---
+# Module: apps/pos/src/actions/order-requests.ts
+**Domain Category:** Ordering
+**Status:** Implemented
+
+## Purpose & Responsibilities
+- Provides domain functionality for order-requests.
+
+## Public Contract & Capabilities
+- **Exposed Server Actions / Functions:**
+  - `confirmOrderRequestAction(input: { requestId: string }): Promise<ActionResult<OnlineOrderRequest>>`
+  - `declineOrderRequestAction(input: { requestId: string; reason: "DECLINED_IN_STORE_PRIORITY" | "DECLINED_INVENTORY_DISCREPANCY"; }): Promise<ActionResult<OnlineOrderRequest>>`
+  - `createSpecialOrderAction(input: CreateSpecialOrderInput): Promise<ActionResult<{ orderId: string }>>`
+  - `updateSpecialOrderTrackingAction(input: { orderId: string; trackingNumber: string }): Promise<ActionResult<{ success: boolean }>>`
+  - `calculateVendorLeadTime(vendorId: string, orderDateStr: string): number`
+- **Key Invariants:** Location Isolation, Integer Cents for currency, ISO-8601 UTC dates.
+
+## Current Features & Behaviors
+- Implements specific business rules for this domain.
+
+## Agreed-Upon Future Goals & Wishlist
+- Improve observability and testing.
+---
